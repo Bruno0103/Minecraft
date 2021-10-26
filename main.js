@@ -23,4 +23,4 @@ inputZ.addEventListener('input', (event) => {
     let textZ = document.querySelector('#tz')
     textZ.innerHTML = resultZ
     
-})
+}) 
