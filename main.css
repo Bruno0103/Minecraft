@@ -1,11 +1,10 @@
-@import url('http://fonts.cdnfonts.com/css/pixel-millennium');
-@import url('http://fonts.cdnfonts.com/css/minecraft-4');
+
 body, header, nav ,ul, li, h1{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
     font-size: 1.2rem;
-    font-family: 'Minecraft', sans-serif;
+    font-family:sans-serif;
     list-style: none;
 }
 body{
@@ -64,7 +63,7 @@ header{
     gap: 50px;
 }
 .subguia{
-    font-family: 'Pixel Millennium', sans-serif;
+    font-family:sans-serif;
 }
 .conteudo{
     position:relative;
@@ -139,9 +138,8 @@ display: flex;
     font-size: 32px;
 }
 .portalNether > .inputs > div > h2{
-    padding: 8px;
-    padding-top:0px;
-    padding-bottom: 10px;
+    padding-left: 7px;
+    padding-right: 7px;
     font-family: Minecraft;
     font-size: 40px;
     background: rgba(163, 163, 163, 0.158);
@@ -164,6 +162,6 @@ footer > p{
     margin-left: 40px;
 }
 footer > p > a{
-    font-family: 'Pixel Millennium';
+    font-family:sans-serif;
     font-size: 20px;
 } 
